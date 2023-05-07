@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Kashiwal</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://i0.wp.com/res.cloudinary.com/practicaldev/image/fetch/s--R5KgC1bh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/oi2rwsde00xo9ou6jwsl.gif?ssl=1">
+<img align="right" alt="coding" width="300" src="https://i0.wp.com/res.cloudinary.com/practicaldev/image/fetch/s--R5KgC1bh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/oi2rwsde00xo9ou6jwsl.gif?ssl=1">
 
 # 💫 About Me:
 🔭 I’m currently working on E-commerce Website<br>🌱 I’m currently learning ReactJs and Web3.0<br>📝 I regularly write articles on https://medium.com/@harsh-kashiwal<br>💬 Ask me about JavaScript, Git/Github, NodeJS, APIs, MongoDB,DSA<br>📫 How to reach me kashiwalharsh1234@gmail.com<br>⚡ Fun fact: I love playing Chess
