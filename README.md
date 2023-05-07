@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/harsh_kashiwal" target="blank"><img src="https://img.shields.io/twitter/follow/harsh_kashiwal?logo=twitter&style=for-the-badge" alt="harsh_kashiwal" /></a> </p>
 
-- 🔭 I’m currently working on **My portfolio site**
+- 🔭 I’m currently working on **E-commerce Website**
 
-- 🌱 I’m currently learning **ExpressJS and API**
+- 🌱 I’m currently learning **ReactJs and Web3.0**
 
 - 📝 I regularly write articles on [https://medium.com/@harsh-kashiwal](https://medium.com/@harsh-kashiwal)
 
-- 💬 Ask me about **CSS , JavaScript ,Bootstrap, Git/Github ,NodeJS**
+- 💬 Ask me about **JavaScript, Git/Github, NodeJS, API's, MongoDB, Authentication and Security, DSA**
 
 - 📫 How to reach me **kashiwalharsh1234@gmail.com**
 
