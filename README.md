@@ -5,6 +5,7 @@
 # 💫 About Me:
 🔭 I’m currently working on E-commerce Website<br>🌱 I’m currently learning ReactJs and Web3.0<br>📝 I regularly write articles on https://medium.com/@harsh-kashiwal<br>💬 Ask me about JavaScript, Git/Github, NodeJS, APIs, MongoDB,DSA<br>📫 How to reach me kashiwalharsh1234@gmail.com<br>⚡ Fun fact: I love playing Chess
 
+[![](https://visitcount.itsvg.in/api?id=KashiwalHarsh&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harsh-kashiwal555/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@harsh-kashiwal) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/harsh_kashiwal) 
@@ -25,7 +26,5 @@
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=KashiwalHarsh&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
